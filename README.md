@@ -4,7 +4,9 @@ If you're here, you're either **lost, desperate, or just a classmate looking for
 
 I'm **Gonçalo Sousa**, an 18-year-old software developer who loves **building efficient and secure software**. I enjoy working on **backend systems, security, and automation**, always looking for ways to make things **faster, safer, and more scalable**.
 
-I mostly work with **TypeScript, GraphQL, Firebase, and React**, but I'm always learning new technologies. I use **Arch Linux** as my daily driver because I like having full control over my system. Right now, I’m preparing to start a degree in **Informatics Engineering at the University of Minho (UMinho)**.
+I mostly work with **TypeScript, GraphQL, Firebase, and React**, but I'm always learning new technologies.  
+I use **Arch Linux** as my daily driver because **I like having problems over my system**.  
+Right now, I’m preparing to start a degree in **Informatics Engineering at the University of Minho (UMinho)**.
 
 ---
 
