@@ -39,12 +39,3 @@ I believe in **clean code, automation, and well-architected solutions** that mak
 [![SmokePTHD's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmokePTHD&show_icons=true&hide=stars&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SmokePTHD&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## 📫 Get in Touch
-
-- **Email:** goncalopeixotodesousa@gmail.com  
-- **LinkedIn:** [linkedin.com/in/gonçalo-sousa-a3097b2b0](https://linkedin.com/in/gonçalo-sousa-a3097b2b0)  
-
----
